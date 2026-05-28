@@ -17,16 +17,16 @@ An IT professional with 4 years of corporate experience optimizing workflows, au
 
 ### 🚀 Featured Cloud & DevOps Projects
 
-#### 1. [Enterprise Infrastructure-as-Code Automation on AWS](LINK_TO_REPO_2)
+#### 1. [Enterprise Infrastructure-as-Code Automation on AWS](https://github.com/Vijay097/aws-terraform-enterprise-infrastructure.git)
 - Modularized VPC network layout separating public assets from deeply isolated private compute/database tiers. Built with Terraform.
 
-#### 2. [Multi-Stage GitOps CI/CD Pipeline for Microservices](LINK_TO_REPO_1)
+#### 2. [Multi-Stage GitOps CI/CD Pipeline for Microservices](https://github.com/Vijay097/microservice-gitops-cicd-pipeline.git)
 - End-to-end automated software delivery pipeline featuring optimized multi-stage Docker builds and rolling updates on a Kubernetes cluster.
 
-#### 3. [Cloud-Native Observability & Monitoring Framework](LINK_TO_REPO_3)
+#### 3. [Cloud-Native Observability & Monitoring Framework](https://github.com/Vijay097/cloud-native-observability-framework.git)
 - Centralized infrastructure monitoring setup using Prometheus metric scraping, live Grafana dashboards, and automated Slack alerting.
 
-#### 4. [DevSecOps Pipeline: Container Vulnerability Scanning & Secret Management](LINK_TO_REPO_4)
+#### 4. [DevSecOps Pipeline: Container Vulnerability Scanning & Secret Management](https://github.com/Vijay097/devsecops-container-vulnerability-scan.git)
 - Hardened software pipeline executing automated container vulnerability checks via Trivy and secure runtime credential injection using AWS Secrets Manager.
 
 ---
