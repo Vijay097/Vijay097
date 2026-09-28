@@ -20,7 +20,7 @@ An IT professional with 4 years of corporate experience optimizing workflows, au
 #### 1. [Enterprise Infrastructure-as-Code Automation on AWS](https://github.com/Vijay097/aws-terraform-enterprise-infrastructure.git)
 - Modularized VPC network layout separating public assets from deeply isolated private compute/database tiers. Built with Terraform.
 
-#### 2. [Multi-Stage GitOps CI/CD Pipeline for Microservices](https://github.com/Vijay097/microservice-gitops-cicd-pipeline.git)
+#### 2. [Multi-Stage CI/CD Pipeline for Microservices](https://github.com/Vijay097/microservice-gitops-cicd-pipeline.git)
 - End-to-end automated software delivery pipeline featuring optimized multi-stage Docker builds and rolling updates on a Kubernetes cluster.
 
 #### 3. [Cloud-Native Observability & Monitoring Framework](https://github.com/Vijay097/cloud-native-observability-framework.git)
